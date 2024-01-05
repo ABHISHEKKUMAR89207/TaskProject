@@ -17,11 +17,7 @@ This documentation provides insights into the development process and key decisi
 
 ## Screenshots:
 
-![Screenshot 1](path/to/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](path/to/screenshot2.png)
-*Caption for Screenshot 2*
+<img src="gitimg/1.jpg" width="200">
 
 ## Technologies Used:
 

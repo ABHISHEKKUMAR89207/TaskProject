@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: ChangeNotifierProvider(
         create: (context) => CarrouselProvider('apiurl'),
-        child: HomePage(),
+        child: MyHomePage(),
       ),
     );
   }

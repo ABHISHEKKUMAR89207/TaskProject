@@ -17,7 +17,7 @@ This documentation provides insights into the development process and key decisi
 
 ## Screenshots:
 
-<img src="gitimg/1.png" width="200">
+<img src="gitimg/1.png"  width="300" >
 
 ## Technologies Used:
 
